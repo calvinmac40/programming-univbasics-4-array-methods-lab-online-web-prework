@@ -1,6 +1,6 @@
 def using_include(array, element)
-
-end
+   ["Big", "Bank", "Take", "Lil Bank"]using_include.include?("Big")
+   end
 
 def using_sort(array)
 
