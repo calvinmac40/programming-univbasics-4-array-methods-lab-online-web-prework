@@ -1,5 +1,6 @@
 def using_include(array, element)
-   ["Big", "Bank", "Take", "Lil Bank"]using_include.include?("Big")
+   big_money_team = ["Big", "Bank", "Take", "Lil Bank"]
+   using_include.include?("Big")
    end
 
 def using_sort(array)
