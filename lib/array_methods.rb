@@ -4,7 +4,7 @@ def using_include(array, element)
     p big_money_team.include?("Big")
  end 
  
- 
+ using_include
 
 def using_sort(array)
 
