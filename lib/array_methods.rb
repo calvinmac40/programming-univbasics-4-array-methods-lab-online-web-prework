@@ -1,7 +1,7 @@
 def using_include(array, element)
    big_money_team = ["Big", "Bank", "Take", "Lil Bank"]
  end 
- 
+ p using_include
  p big_money_team.include?("Big")
 
 def using_sort(array)
