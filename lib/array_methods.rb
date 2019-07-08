@@ -1,5 +1,5 @@
-def using_include(array, element)
-   big_money_team = ["Big", "Bank", "Take", "Lil Bank"]
+def using_include = 
+    ["Big", "Bank", "Take", "Lil Bank"]
     "this_is_an #{array} and an #{element}."
     p big_money_team.include?("Big")
  end 
