@@ -1,7 +1,9 @@
 def using_include(array, element)
    big_money_team = ["Big", "Bank", "Take", "Lil Bank"]
    big_money_team.include?("Big")
-   end
+ end 
+ 
+ p big_money_team
 
 def using_sort(array)
 
